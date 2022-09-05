@@ -1,10 +1,11 @@
 var math = true;
 var geometry = true;
-var straightLint = false;
+var straightLine = false;
 
 if(math == true){
     if(geometry == true){
-        if(straightLint == true){
+        if(straightLine == true){
+            console.log("suja pothe cholo")
 
         }
         else{
@@ -16,5 +17,7 @@ if(math == true){
     }
 }
 else{
+
+    console.log("ekhane math cholbena")
 
 }

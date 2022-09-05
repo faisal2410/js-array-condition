@@ -1,4 +1,4 @@
-// var isGraduated = true;
+// var isGraduated = false;
 // var salary = 75000;
 // var cars = 1;
 

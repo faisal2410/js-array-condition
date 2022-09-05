@@ -12,6 +12,7 @@ destinations.pop()
 // &&, ||
 
 if(destinations[1] === 'sajek'){
+    
 
 }
 else if (destinations[2] === 'bali'){

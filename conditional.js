@@ -1,5 +1,14 @@
 var iphonePrice = 79000;
 var myBudget = 95000;
+
+
+// if(myBudget<iphonePrice){
+//     console.log('buy');
+    
+// }else{
+//     console.log('not buy');
+
+// }
 // if iphone price is less than my budget. I will buy the iphone
 /**
  *  if iphone price is less than my budget
@@ -18,12 +27,13 @@ if (iphonePrice < myBudget){
 
 var chickenPrice = 500;
 var myMoney = 50;
-// if (chickenPrice <= myMoney){
-//     console.log('Murgir raan khamu and haddi chibamu!!!');
-// }
-// if (chickenPrice > myMoney){
-//     console.log('Smashed potato and lentils soup');
-// }
+if (chickenPrice <= myMoney){
+    console.log('Murgir raan khamu and haddi chibamu!!!');
+}
+
+if (chickenPrice > myMoney){
+    console.log('Smashed potato and lentils soup');
+}
 
 /**
  * if chiken er price is less than my budget
